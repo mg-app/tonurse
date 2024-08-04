@@ -1,19 +1,12 @@
 {
-  "levelquest": [
-    {
-      "levelname": "GCS",
-      "isComplete": "true",
-      "time": "70",
-      "question": [
-        {"quest": "GCS","chooses":["g","e","t","o"],"correctanswer":"g","rational":"h"},
-        
-      ]
+"podcasts_data": [
+  
+{
+"podcastName": "Nursing",
+"podcastImage": "https://drive.google.com/u/1/uc?id=1_xefEGPUwO5l5ALF3DISue2pQ-o1gVRe&export=download",
+"podcastUrl": "https://drive.google.com/u/1/uc?id=1ldW0pQ9f-6jgofMxnYMzcBh-O_Jlfoen&export=download",
+},
 
-    }
-
-    
-
-  ]
-
-
+  
+]
 }
