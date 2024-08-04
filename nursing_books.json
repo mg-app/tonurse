@@ -1,19 +1,16 @@
 {
-  "levelquest": [
-    {
-      "levelname": "GCS",
-      "isComplete": "true",
-      "time": "70",
-      "question": [
-        {"quest": "GCS","chooses":["g","e","t","o"],"correctanswer":"g","rational":"h"},
-        
-      ]
+"novels_data": [
+  
+{
+"novelName": "Nursing",
+"imageUrl": "https://drive.google.com/u/1/uc?id=1_xefEGPUwO5l5ALF3DISue2pQ-o1gVRe&export=download",
+"imageUrl2": "https://www.dropbox.com/scl/fi/1sb30v6tbg9ndtgo9jh1b/.png?rlkey=3r313x7ukdbqlxock7xc0humv&raw=1",
+"pdfUrl": "https://drive.google.com/u/1/uc?id=1ldW0pQ9f-6jgofMxnYMzcBh-O_Jlfoen&export=download",
+"pdfUrl2": "https://www.dropbox.com/scl/fi/yklwd9zwwobjqh2z204ma/.pdf?rlkey=er3qviochd21dnhhj147ujdkx&raw=1",
+"imageUrl3": "https://archive.org/download/20240415_20240415_1204/%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D9%82%20%D9%88%D8%A7%D8%AF%D8%A7%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D8%B9%D9%85%D8%A7%D9%84/%D9%A2%D9%A5%D9%A0%20%D9%85%D9%87%D8%A7%D8%B1%D8%A9%20%D8%B0%D9%87%D9%86%D9%8A%D8%A9.png",
+"pdfUrl3": "https://archive.org/download/20240415_20240415_1204/%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D9%82%20%D9%88%D8%A7%D8%AF%D8%A7%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D8%B9%D9%85%D8%A7%D9%84/%D9%A2%D9%A5%D9%A0%20%D9%85%D9%87%D8%A7%D8%B1%D8%A9%20%D8%B0%D9%87%D9%86%D9%8A%D8%A9.pdf"
+},
 
-    }
-
-    
-
-  ]
-
-
+  
+]
 }
