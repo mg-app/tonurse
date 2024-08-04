@@ -1,19 +1,9 @@
 {
-  "levelquest": [
-    {
-      "levelname": "GCS",
-      "isComplete": "true",
-      "time": "70",
-      "question": [
-        {"quest": "GCS","chooses":["g","e","t","o"],"correctanswer":"g","rational":"h"},
-        
-      ]
+  "novels_categories": [
+      
+          {"category": "Medical Surgical","jsonName": "https://appsapple.github.io/jobs/nursing_books.json","image":"https://archive.org/download/20240427_20240427_1619/children%27s%20book%20day/%D8%B9%D9%84%D9%85%D9%80%D9%80%D9%86%D9%81%D8%B3.png"},
+            
 
-    }
-
-    
-
-  ]
-
+   ]
 
 }
