@@ -2,13 +2,31 @@
 "novels_data": [
   
 {
-"novelName": "Nursing",
-"imageUrl": "https://drive.google.com/u/1/uc?id=1_xefEGPUwO5l5ALF3DISue2pQ-o1gVRe&export=download",
-"imageUrl2": "https://www.dropbox.com/scl/fi/1sb30v6tbg9ndtgo9jh1b/.png?rlkey=3r313x7ukdbqlxock7xc0humv&raw=1",
-"pdfUrl": "https://drive.google.com/u/1/uc?id=1ldW0pQ9f-6jgofMxnYMzcBh-O_Jlfoen&export=download",
-"pdfUrl2": "https://www.dropbox.com/scl/fi/yklwd9zwwobjqh2z204ma/.pdf?rlkey=er3qviochd21dnhhj147ujdkx&raw=1",
-"imageUrl3": "https://archive.org/download/20240415_20240415_1204/%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D9%82%20%D9%88%D8%A7%D8%AF%D8%A7%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D8%B9%D9%85%D8%A7%D9%84/%D9%A2%D9%A5%D9%A0%20%D9%85%D9%87%D8%A7%D8%B1%D8%A9%20%D8%B0%D9%87%D9%86%D9%8A%D8%A9.png",
-"pdfUrl3": "https://archive.org/download/20240415_20240415_1204/%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D9%82%20%D9%88%D8%A7%D8%AF%D8%A7%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D8%B9%D9%85%D8%A7%D9%84/%D9%A2%D9%A5%D9%A0%20%D9%85%D9%87%D8%A7%D8%B1%D8%A9%20%D8%B0%D9%87%D9%86%D9%8A%D8%A9.pdf"
+"novelName": "Medical Nursing",
+"imageUrl": "https://ia802205.us.archive.org/3/items/obstetrics_202409/medical.jpg",
+"imageUrl2": "https://ia802205.us.archive.org/3/items/obstetrics_202409/medical.jpg",
+"pdfUrl": "https://ia600800.us.archive.org/22/items/medical-surgical-nursing_202409/Medical-Surgical%20Nursing.pdf",
+"pdfUrl2": "https://ia600800.us.archive.org/22/items/medical-surgical-nursing_202409/Medical-Surgical%20Nursing.pdf",
+"imageUrl3": "https://ia802205.us.archive.org/3/items/obstetrics_202409/medical.jpg",
+"pdfUrl3": "https://ia600800.us.archive.org/22/items/medical-surgical-nursing_202409/Medical-Surgical%20Nursing.pdf"
+},
+  {
+"novelName": "Obstetrics Nursing",
+"imageUrl": "https://ia802205.us.archive.org/3/items/obstetrics_202409/obstetrics.jpg",
+"imageUrl2": "https://ia802205.us.archive.org/3/items/obstetrics_202409/obstetrics.jpg",
+"pdfUrl": "https://ia600802.us.archive.org/16/items/ob-gyn-body/ob-gyn-body.pdf",
+"pdfUrl2": "https://ia600802.us.archive.org/16/items/ob-gyn-body/ob-gyn-body.pdf",
+"imageUrl3": "https://ia802205.us.archive.org/3/items/obstetrics_202409/obstetrics.jpg",
+"pdfUrl3": "https://ia600802.us.archive.org/16/items/ob-gyn-body/ob-gyn-body.pdf"
+},
+  {
+"novelName": "Pediatric Nursing",
+"imageUrl": "https://ia902205.us.archive.org/3/items/obstetrics_202409/pediatric.jpg",
+"imageUrl2": "https://ia902205.us.archive.org/3/items/obstetrics_202409/pediatric.jpg",
+"pdfUrl": "https://ia803406.us.archive.org/3/items/pediatrics-final_202409/Pediatrics_final.pdf",
+"pdfUrl2": "https://ia803406.us.archive.org/3/items/pediatrics-final_202409/Pediatrics_final.pdf",
+"imageUrl3": "https://ia902205.us.archive.org/3/items/obstetrics_202409/pediatric.jpg",
+"pdfUrl3": "https://ia803406.us.archive.org/3/items/pediatrics-final_202409/Pediatrics_final.pdf"
 },
 
   
