@@ -1,11 +1,8 @@
 {
   "nurse_data": [
-        
-         
-          {"title": "hi","description": "ok","country": "egy","area": "sharqia","phone": "01094371889"},
-         
-      
-  
+               
+      {"update": "no","update_url": "https://www.tonurse.com","reset_sharepreferance_userdefault": "no"},
+           
    ]
 
 }
