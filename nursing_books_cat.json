@@ -1,7 +1,7 @@
 {
   "novels_categories": [
       
-          {"category": "Nursing Books","jsonName": "https://mg-app.github.io/jobs/nursing_books.json","image":"https://ia802205.us.archive.org/3/items/obstetrics_202409/medical.jpg"},
+          {"category": "Nursing Books","jsonName": "https://mg-app.github.io/tonurse/nursing_books.json","image":"https://ia802205.us.archive.org/3/items/obstetrics_202409/medical.jpg"},
             
 
    ]
