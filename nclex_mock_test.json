@@ -5,9 +5,1201 @@
       "numberOfMinimumQuestPass": "75",
       "numberOfMaximumQuestPass" : "145",
       "question": [
-        {"quest": "Guess the country","image": "https://ia600301.us.archive.org/2/items/online2_202405/in_egypt.JPG","chooses": ["","","",""],"correctanswer": "Egypt"},
-        {"quest": "","image": "","chooses": ["","","",""],"correctanswer": ""},
-        {"quest": "","image": "","chooses": ["","","",""],"correctanswer": ""},
+  {
+    "quest": "Which of the following is a priority action when a patient is found unresponsive and not breathing?",
+    "image": "",
+    "chooses": ["Call for help and start CPR", "Check blood sugar level", "Start IV fluids", "Administer oxygen"],
+    "correctanswer": "Call for help and start CPR"
+  },
+  {
+    "quest": "What lab value is most important to monitor in a patient receiving warfarin (Coumadin)?",
+    "image": "",
+    "chooses": ["INR", "Potassium", "Creatinine", "Calcium"],
+    "correctanswer": "INR"
+  },
+  {
+    "quest": "A patient with heart failure is prescribed furosemide. What electrolyte should the nurse monitor closely?",
+    "image": "",
+    "chooses": ["Potassium", "Sodium", "Calcium", "Magnesium"],
+    "correctanswer": "Potassium"
+  },
+  {
+    "quest": "What is the normal range for adult respiratory rate?",
+    "image": "",
+    "chooses": ["", "", "", ""],
+    "correctanswer": "12–20 breaths per minute"
+  },
+  {
+    "quest": "Which action is appropriate when administering ear drops to an adult?",
+    "image": "",
+    "chooses": ["Pull the pinna up and back", "Pull the pinna down and back", "Insert cotton swab", "Massage the tragus only"],
+    "correctanswer": "Pull the pinna up and back"
+  },
+  {
+    "quest": "A nurse is caring for a post-operative patient. Which of the following signs may indicate internal bleeding?",
+    "image": "",
+    "chooses": ["Increased heart rate", "Warm, dry skin", "Bradycardia", "Increased urine output"],
+    "correctanswer": "Increased heart rate"
+  },
+  {
+    "quest": "Which vaccine is safe to give during pregnancy?",
+    "image": "",
+    "chooses": ["Tetanus, diphtheria, and pertussis (Tdap)", "MMR", "Varicella", "Oral polio vaccine"],
+    "correctanswer": "Tetanus, diphtheria, and pertussis (Tdap)"
+  },
+  {
+    "quest": "A patient complains of pain 8/10 after surgery. What should the nurse do first?",
+    "image": "",
+    "chooses": ["Assess pain location and characteristics", "Call the physician", "Give non-pharmacologic comfort measures", "Document the pain"],
+    "correctanswer": "Assess pain location and characteristics"
+  },
+  {
+    "quest": "Which organ is primarily affected in hepatitis?",
+    "image": "",
+    "chooses": ["Liver", "Kidney", "Pancreas", "Stomach"],
+    "correctanswer": "Liver"
+  },
+  {
+    "quest": "What is the primary concern in a patient with a spinal cord injury at C4?",
+    "image": "",
+    "chooses": ["Respiratory function", "Bladder control", "Bowel movements", "Skin integrity"],
+    "correctanswer": "Respiratory function"
+  },
+  {
+    "quest": "Which isolation precaution is needed for a patient with tuberculosis (TB)?",
+    "image": "",
+    "chooses": ["Airborne", "Contact", "Droplet", "Standard"],
+    "correctanswer": "Airborne"
+  },
+  {
+    "quest": "Which electrolyte imbalance is common in chronic kidney disease?",
+    "image": "",
+    "chooses": ["Hyperkalemia", "Hypokalemia", "Hyponatremia", "Hypercalcemia"],
+    "correctanswer": "Hyperkalemia"
+  },
+  {
+    "quest": "What is the antidote for opioid overdose?",
+    "image": "",
+    "chooses": ["", "", "", ""],
+    "correctanswer": "Naloxone"
+  },
+  {
+    "quest": "Which nursing action prevents pressure ulcers?",
+    "image": "",
+    "chooses": ["Reposition every 2 hours", "Apply restraints", "Elevate legs", "Limit fluids"],
+    "correctanswer": "Reposition every 2 hours"
+  },
+  {
+    "quest": "What is the therapeutic level of digoxin?",
+    "image": "",
+    "chooses": ["0.5–2.0 ng/mL", "4–6 ng/mL", "2–4 ng/mL", "1–5 ng/mL"],
+    "correctanswer": "0.5–2.0 ng/mL"
+  },
+  {
+    "quest": "What should the nurse do if a central line dressing becomes loose?",
+    "image": "",
+    "chooses": ["Replace it using sterile technique", "Ignore it", "Use tape to secure it", "Call housekeeping"],
+    "correctanswer": "Replace it using sterile technique"
+  },
+  {
+    "quest": "What is a major side effect of chemotherapy?",
+    "image": "",
+    "chooses": ["", "", "", ""],
+    "correctanswer": "Immunosuppression"
+  },
+  {
+    "quest": "A patient with a BMI of 36 is classified as:",
+    "image": "",
+    "chooses": ["Obese", "Normal weight", "Overweight", "Underweight"],
+    "correctanswer": "Obese"
+  },
+  {
+    "quest": "Which symptom is most concerning in preeclampsia?",
+    "image": "",
+    "chooses": ["Severe headache", "Nausea", "Back pain", "Swelling of feet"],
+    "correctanswer": "Severe headache"
+  },
+  {
+    "quest": "What is the primary purpose of incentive spirometry post-op?",
+    "image": "",
+    "chooses": ["Prevent atelectasis", "Relieve pain", "Strengthen abdominal muscles", "Increase appetite"],
+    "correctanswer": "Prevent atelectasis"
+  },
+  {
+    "quest": "Which medication class is used to treat hypertension?",
+    "image": "",
+    "chooses": ["Beta blockers", "Antibiotics", "Diuretics", "Antihistamines"],
+    "correctanswer": "Beta blockers"
+  },
+  {
+    "quest": "What is the purpose of administering Rhogam to an Rh-negative mother?",
+    "image": "",
+    "chooses": ["Prevent Rh sensitization", "Increase hemoglobin", "Lower blood pressure", "Stimulate labor"],
+    "correctanswer": "Prevent Rh sensitization"
+  },
+  {
+    "quest": "How should insulin be stored when not in use?",
+    "image": "",
+    "chooses": ["In the refrigerator", "On the windowsill", "In the freezer", "Next to the stove"],
+    "correctanswer": "In the refrigerator"
+  },
+  {
+    "quest": "Which condition requires contact precautions?",
+    "image": "",
+    "chooses": ["MRSA", "Influenza", "Measles", "Tuberculosis"],
+    "correctanswer": "MRSA"
+  },
+  {
+    "quest": "A patient says, “I’m going to kill myself.” What is the nurse’s priority action?",
+    "image": "",
+    "chooses": ["Stay with the patient", "Notify the physician", "Restrain the patient", "Ignore the statement"],
+    "correctanswer": "Stay with the patient"
+  },
+   {
+    "quest": "Which sign is most indicative of hypoglycemia?",
+    "image": "",
+    "chooses": ["Sweating", "Dry skin", "Bradycardia", "Hypertension"],
+    "correctanswer": "Sweating"
+  },
+  {
+    "quest": "What is the normal adult heart rate range?",
+    "image": "",
+    "chooses": ["", "", "", ""],
+    "correctanswer": "60–100 beats per minute"
+  },
+  {
+    "quest": "Which condition is commonly associated with prolonged immobility?",
+    "image": "",
+    "chooses": ["Pressure ulcers", "Appendicitis", "Asthma", "Otitis media"],
+    "correctanswer": "Pressure ulcers"
+  },
+  {
+    "quest": "What is a common side effect of morphine?",
+    "image": "",
+    "chooses": ["Constipation", "Diarrhea", "Insomnia", "Tachycardia"],
+    "correctanswer": "Constipation"
+  },
+  {
+    "quest": "A client with a history of seizures suddenly stares blankly and does not respond. What type of seizure is this?",
+    "image": "",
+    "chooses": ["Absence seizure", "Tonic-clonic seizure", "Myoclonic seizure", "Focal seizure"],
+    "correctanswer": "Absence seizure"
+  },
+  {
+    "quest": "What is the priority nursing action for a client with shortness of breath and oxygen saturation of 86%?",
+    "image": "",
+    "chooses": ["Apply oxygen", "Check blood glucose", "Call the family", "Elevate the legs"],
+    "correctanswer": "Apply oxygen"
+  },
+  {
+    "quest": "Which dietary choice is appropriate for a patient on a low-sodium diet?",
+    "image": "",
+    "chooses": ["Fresh fruits and vegetables", "Canned soup", "Processed cheese", "Bacon"],
+    "correctanswer": "Fresh fruits and vegetables"
+  },
+  {
+    "quest": "What is the best site for IM injection in an infant under 12 months?",
+    "image": "",
+    "chooses": ["Vastus lateralis", "Deltoid", "Gluteus maximus", "Rectus femoris"],
+    "correctanswer": "Vastus lateralis"
+  },
+  {
+    "quest": "Which intervention helps reduce the risk of ventilator-associated pneumonia?",
+    "image": "",
+    "chooses": ["Oral care with chlorhexidine", "Increasing sedation", "Restricting fluids", "Raising bed to flat position"],
+    "correctanswer": "Oral care with chlorhexidine"
+  },
+  {
+    "quest": "A nurse finds a patient on the floor. What is the first action?",
+    "image": "",
+    "chooses": ["Assess for injury", "Call the family", "Write an incident report", "Notify housekeeping"],
+    "correctanswer": "Assess for injury"
+  },
+  {
+    "quest": "What is a late sign of hypoxia?",
+    "image": "",
+    "chooses": ["Cyanosis", "Restlessness", "Tachypnea", "Hypertension"],
+    "correctanswer": "Cyanosis"
+  },
+  {
+    "quest": "Which condition requires strict fluid restriction?",
+    "image": "",
+    "chooses": ["Heart failure", "Hypovolemia", "Diabetes insipidus", "Hyperthyroidism"],
+    "correctanswer": "Heart failure"
+  },
+  {
+    "quest": "What does a positive Homan’s sign indicate?",
+    "image": "",
+    "chooses": ["Possible DVT", "Fracture", "Pneumonia", "Stroke"],
+    "correctanswer": "Possible DVT"
+  },
+  {
+    "quest": "Which is the most reliable method to confirm placement of a nasogastric (NG) tube?",
+    "image": "",
+    "chooses": ["X-ray", "Auscultation", "Visual inspection", "pH testing"],
+    "correctanswer": "X-ray"
+  },
+  {
+    "quest": "Which symptom requires immediate intervention in a patient with a tracheostomy?",
+    "image": "",
+    "chooses": ["Difficulty breathing", "Coughing", "Clear secretions", "SpO2 of 98%"],
+    "correctanswer": "Difficulty breathing"
+  },
+  {
+    "quest": "What does FAST stand for in stroke assessment?",
+    "image": "",
+    "chooses": ["Face, Arms, Speech, Time", "Face, Alertness, Skin, Tone", "Feet, Arms, Speech, Temperature", "Fingers, Angles, Swelling, Tongue"],
+    "correctanswer": "Face, Arms, Speech, Time"
+  },
+  {
+    "quest": "Which medication is used to reverse benzodiazepine overdose?",
+    "image": "",
+    "chooses": ["", "", "", ""],
+    "correctanswer": "Flumazenil"
+  },
+  {
+    "quest": "Which action is most appropriate when a patient is having a panic attack?",
+    "image": "",
+    "chooses": ["Stay with the patient and speak calmly", "Leave the patient alone", "Give food", "Ask many questions"],
+    "correctanswer": "Stay with the patient and speak calmly"
+  },
+  {
+    "quest": "Which blood type is considered the universal donor?",
+    "image": "",
+    "chooses": ["O negative", "AB positive", "B positive", "A negative"],
+    "correctanswer": "O negative"
+  },
+  {
+    "quest": "A patient with liver cirrhosis is at high risk for which complication?",
+    "image": "",
+    "chooses": ["Bleeding", "Hypertension", "Diabetes", "Infection"],
+    "correctanswer": "Bleeding"
+  },
+  {
+    "quest": "Which vitamin is essential to prevent neural tube defects during pregnancy?",
+    "image": "",
+    "chooses": ["Folic acid", "Vitamin D", "Vitamin K", "Iron"],
+    "correctanswer": "Folic acid"
+  },
+  {
+    "quest": "Which action is appropriate after administering sublingual nitroglycerin?",
+    "image": "",
+    "chooses": ["Check blood pressure", "Give food", "Lie the patient flat", "Give another pill immediately"],
+    "correctanswer": "Check blood pressure"
+  },
+  {
+    "quest": "What is the normal pH range of blood?",
+    "image": "",
+    "chooses": ["", "", "", ""],
+    "correctanswer": "7.35–7.45"
+  },
+  {
+    "quest": "Which lab value indicates infection?",
+    "image": "",
+    "chooses": ["Elevated WBC", "Low hemoglobin", "High sodium", "Low calcium"],
+    "correctanswer": "Elevated WBC"
+  },
+  {
+    "quest": "What is the antidote for heparin overdose?",
+    "image": "",
+    "chooses": ["Protamine sulfate", "Vitamin K", "Naloxone", "Atropine"],
+    "correctanswer": "Protamine sulfate"
+  },
+    {
+    "quest": "Which position is best for a patient experiencing dyspnea?",
+    "image": "",
+    "chooses": ["High Fowler's", "Supine", "Prone", "Trendelenburg"],
+    "correctanswer": "High Fowler's"
+  },
+  {
+    "quest": "What is the normal range for serum potassium?",
+    "image": "",
+    "chooses": ["", "", "", ""],
+    "correctanswer": "3.5–5.0 mEq/L"
+  },
+  {
+    "quest": "A patient with COPD should be encouraged to do which of the following?",
+    "image": "",
+    "chooses": ["Pursed-lip breathing", "Shallow breathing", "Lie flat", "Hold breath"],
+    "correctanswer": "Pursed-lip breathing"
+  },
+  {
+    "quest": "What is the primary symptom of tuberculosis?",
+    "image": "",
+    "chooses": ["Persistent cough", "Weight gain", "Chest pain", "Headache"],
+    "correctanswer": "Persistent cough"
+  },
+  {
+    "quest": "Which vaccine is given at birth?",
+    "image": "",
+    "chooses": ["Hepatitis B", "MMR", "Varicella", "DTP"],
+    "correctanswer": "Hepatitis B"
+  },
+  {
+    "quest": "Which electrolyte imbalance causes muscle weakness and cardiac dysrhythmia?",
+    "image": "",
+    "chooses": ["Hypokalemia", "Hypernatremia", "Hypocalcemia", "Hypermagnesemia"],
+    "correctanswer": "Hypokalemia"
+  },
+  {
+    "quest": "Which finding is most concerning in a patient receiving opioid analgesics?",
+    "image": "",
+    "chooses": ["Respiratory rate of 8", "Constipation", "Nausea", "Drowsiness"],
+    "correctanswer": "Respiratory rate of 8"
+  },
+  {
+    "quest": "Which precaution is necessary when caring for a patient with tuberculosis?",
+    "image": "",
+    "chooses": ["Airborne precautions", "Contact precautions", "Droplet precautions", "Standard precautions"],
+    "correctanswer": "Airborne precautions"
+  },
+  {
+    "quest": "What does a capillary refill time greater than 2 seconds indicate?",
+    "image": "",
+    "chooses": ["Poor perfusion", "Good hydration", "Normal finding", "High oxygen levels"],
+    "correctanswer": "Poor perfusion"
+  },
+  {
+    "quest": "What is the therapeutic INR range for a patient on warfarin?",
+    "image": "",
+    "chooses": ["2.0–3.0", "0.5–1.5", "3.5–4.0", "1.0–2.0"],
+    "correctanswer": "2.0–3.0"
+  },
+  {
+    "quest": "Which food is high in iron?",
+    "image": "",
+    "chooses": ["Spinach", "Apple", "Rice", "Carrot"],
+    "correctanswer": "Spinach"
+  },
+  {
+    "quest": "Which body system does Parkinson’s disease primarily affect?",
+    "image": "",
+    "chooses": ["Nervous system", "Digestive system", "Cardiovascular system", "Endocrine system"],
+    "correctanswer": "Nervous system"
+  },
+  {
+    "quest": "What is the first step in using an inhaler without a spacer?",
+    "image": "",
+    "chooses": ["Shake the inhaler", "Inhale deeply", "Hold breath", "Open mouth wide"],
+    "correctanswer": "Shake the inhaler"
+  },
+  {
+    "quest": "A patient reports chest pain. What is the nurse’s first action?",
+    "image": "",
+    "chooses": ["Assess vital signs", "Call the physician", "Give fluids", "Start CPR"],
+    "correctanswer": "Assess vital signs"
+  },
+  {
+    "quest": "Which isolation precaution is needed for a patient with C. difficile?",
+    "image": "",
+    "chooses": ["Contact precautions", "Droplet precautions", "Airborne precautions", "Protective precautions"],
+    "correctanswer": "Contact precautions"
+  },
+  {
+    "quest": "What is the expected urine output per hour for an adult?",
+    "image": "",
+    "chooses": ["", "", "", ""],
+    "correctanswer": "At least 30 mL/hour"
+  },
+  {
+    "quest": "Which hormone regulates blood glucose levels?",
+    "image": "",
+    "chooses": ["Insulin", "Adrenaline", "Estrogen", "Thyroxine"],
+    "correctanswer": "Insulin"
+  },
+  {
+    "quest": "What is the antidote for acetaminophen overdose?",
+    "image": "",
+    "chooses": ["N-acetylcysteine", "Vitamin K", "Activated charcoal", "Naloxone"],
+    "correctanswer": "N-acetylcysteine"
+  },
+  {
+    "quest": "Which type of insulin is rapid-acting?",
+    "image": "",
+    "chooses": ["Lispro", "NPH", "Glargine", "Regular"],
+    "correctanswer": "Lispro"
+  },
+  {
+    "quest": "What is the purpose of the Glasgow Coma Scale?",
+    "image": "",
+    "chooses": ["Assess level of consciousness", "Evaluate kidney function", "Check lung capacity", "Assess heart rhythm"],
+    "correctanswer": "Assess level of consciousness"
+  },
+  {
+    "quest": "A patient is allergic to penicillin. Which antibiotic should be avoided?",
+    "image": "",
+    "chooses": ["Amoxicillin", "Azithromycin", "Ciprofloxacin", "Clindamycin"],
+    "correctanswer": "Amoxicillin"
+  },
+  {
+    "quest": "What is the expected finding in a patient with right-sided heart failure?",
+    "image": "",
+    "chooses": ["Peripheral edema", "Pulmonary edema", "Dry cough", "Weight loss"],
+    "correctanswer": "Peripheral edema"
+  },
+  {
+    "quest": "How many lobes does the right lung have?",
+    "image": "",
+    "chooses": ["Three", "Two", "Four", "One"],
+    "correctanswer": "Three"
+  },
+  {
+    "quest": "Which cranial nerve is tested with the 'snellen chart'?",
+    "image": "",
+    "chooses": ["Optic nerve (II)", "Olfactory nerve (I)", "Facial nerve (VII)", "Trochlear nerve (IV)"],
+    "correctanswer": "Optic nerve (II)"
+  },
+  {
+    "quest": "What lab value indicates dehydration?",
+    "image": "",
+    "chooses": ["Elevated hematocrit", "Low sodium", "Low WBC", "Elevated calcium"],
+    "correctanswer": "Elevated hematocrit"
+  },
+    {
+    "quest": "What is the recommended treatment for hypovolemic shock?",
+    "image": "",
+    "chooses": ["IV fluids", "Antibiotics", "Oxygen therapy", "Steroids"],
+    "correctanswer": "IV fluids"
+  },
+  {
+    "quest": "Which cranial nerve controls facial expressions?",
+    "image": "",
+    "chooses": ["Facial nerve (VII)", "Trigeminal nerve (V)", "Glossopharyngeal nerve (IX)", "Vagus nerve (X)"],
+    "correctanswer": "Facial nerve (VII)"
+  },
+  {
+    "quest": "A patient on heparin therapy suddenly develops sudden chest pain and shortness of breath. What is the priority nursing action?",
+    "image": "",
+    "chooses": ["Notify the physician immediately", "Administer aspirin", "Encourage deep breathing", "Give pain medication"],
+    "correctanswer": "Notify the physician immediately"
+  },
+  {
+    "quest": "Which symptom is characteristic of Parkinson’s disease?",
+    "image": "",
+    "chooses": ["Tremors", "Hyperactivity", "Chest pain", "Blurred vision"],
+    "correctanswer": "Tremors"
+  },
+  {
+    "quest": "What is the purpose of administering lactulose to a patient with liver disease?",
+    "image": "",
+    "chooses": ["Reduce ammonia levels", "Increase urine output", "Lower blood pressure", "Control blood sugar"],
+    "correctanswer": "Reduce ammonia levels"
+  },
+  {
+    "quest": "Which electrolyte imbalance causes peaked T waves on ECG?",
+    "image": "",
+    "chooses": ["Hyperkalemia", "Hypokalemia", "Hypernatremia", "Hypocalcemia"],
+    "correctanswer": "Hyperkalemia"
+  },
+  {
+    "quest": "What is the first action when a patient experiences anaphylaxis?",
+    "image": "",
+    "chooses": ["Administer epinephrine", "Call family", "Give antihistamine", "Start CPR"],
+    "correctanswer": "Administer epinephrine"
+  },
+  {
+    "quest": "Which type of isolation is used for a patient with measles?",
+    "image": "",
+    "chooses": ["Airborne isolation", "Contact isolation", "Droplet isolation", "Protective isolation"],
+    "correctanswer": "Airborne isolation"
+  },
+  {
+    "quest": "Which organ is primarily affected by hepatitis?",
+    "image": "",
+    "chooses": ["Liver", "Kidney", "Lungs", "Heart"],
+    "correctanswer": "Liver"
+  },
+  {
+    "quest": "What is the primary goal of physical therapy in stroke rehabilitation?",
+    "image": "",
+    "chooses": ["Restore mobility", "Manage pain", "Prevent infection", "Control blood pressure"],
+    "correctanswer": "Restore mobility"
+  },
+  {
+    "quest": "A patient has a serum sodium level of 120 mEq/L. What condition does this indicate?",
+    "image": "",
+    "chooses": ["Hyponatremia", "Hypernatremia", "Hypokalemia", "Hyperkalemia"],
+    "correctanswer": "Hyponatremia"
+  },
+  {
+    "quest": "What is the priority nursing intervention for a patient with a suspected stroke?",
+    "image": "",
+    "chooses": ["Assess airway and breathing", "Administer aspirin", "Check blood sugar", "Encourage fluids"],
+    "correctanswer": "Assess airway and breathing"
+  },
+  {
+    "quest": "Which medication is commonly used to treat congestive heart failure?",
+    "image": "",
+    "chooses": ["Furosemide", "Ibuprofen", "Amoxicillin", "Metformin"],
+    "correctanswer": "Furosemide"
+  },
+  {
+    "quest": "What does the term 'bradycardia' mean?",
+    "image": "",
+    "chooses": ["Slow heart rate", "Fast heart rate", "Irregular heartbeat", "No heartbeat"],
+    "correctanswer": "Slow heart rate"
+  },
+  {
+    "quest": "Which vitamin deficiency causes scurvy?",
+    "image": "",
+    "chooses": ["Vitamin C", "Vitamin D", "Vitamin B12", "Vitamin A"],
+    "correctanswer": "Vitamin C"
+  },
+  {
+    "quest": "A nurse is caring for a patient with a Foley catheter. Which action prevents infection?",
+    "image": "",
+    "chooses": ["Maintain closed drainage system", "Change catheter daily", "Use powdered gloves", "Keep tubing above bladder"],
+    "correctanswer": "Maintain closed drainage system"
+  },
+  {
+    "quest": "What is the normal range for adult respiratory rate?",
+    "image": "",
+    "chooses": ["", "", "", ""],
+    "correctanswer": "12–20 breaths per minute"
+  },
+  {
+    "quest": "Which condition is a contraindication for MRI?",
+    "image": "",
+    "chooses": ["Pacemaker", "Asthma", "Diabetes", "Hypertension"],
+    "correctanswer": "Pacemaker"
+  },
+  {
+    "quest": "What does a Glasgow Coma Scale score of 3 indicate?",
+    "image": "",
+    "chooses": ["Deep coma or death", "Fully awake", "Mild confusion", "Moderate coma"],
+    "correctanswer": "Deep coma or death"
+  },
+  {
+    "quest": "Which position should a nurse place a patient with increased intracranial pressure?",
+    "image": "",
+    "chooses": ["Head elevated 30 degrees", "Flat supine", "Trendelenburg", "Prone"],
+    "correctanswer": "Head elevated 30 degrees"
+  },
+  {
+    "quest": "Which organ filters waste products from the blood?",
+    "image": "",
+    "chooses": ["Kidneys", "Liver", "Lungs", "Pancreas"],
+    "correctanswer": "Kidneys"
+  },
+  {
+    "quest": "What is the purpose of a chest tube?",
+    "image": "",
+    "chooses": ["Remove air or fluid from pleural space", "Measure blood pressure", "Deliver medication", "Monitor heart rate"],
+    "correctanswer": "Remove air or fluid from pleural space"
+  },
+  {
+    "quest": "Which condition is an autoimmune disease?",
+    "image": "",
+    "chooses": ["Rheumatoid arthritis", "Osteoarthritis", "Fracture", "Sprain"],
+    "correctanswer": "Rheumatoid arthritis"
+  },
+  {
+    "quest": "What is the main symptom of diabetes mellitus?",
+    "image": "",
+    "chooses": ["Polyuria", "Weight gain", "Bradycardia", "Constipation"],
+    "correctanswer": "Polyuria"
+  },
+  {
+    "quest": "Which of the following is a common side effect of corticosteroids?",
+    "image": "",
+    "chooses": ["Hyperglycemia", "Hypotension", "Bradycardia", "Hypoglycemia"],
+    "correctanswer": "Hyperglycemia"
+  },
+  {
+    "quest": "What is the priority action for a patient with suspected myocardial infarction?",
+    "image": "",
+    "chooses": ["Administer oxygen", "Give insulin", "Start physical therapy", "Apply ice pack"],
+    "correctanswer": "Administer oxygen"
+  },
+  {
+    "quest": "Which lab test monitors long-term blood glucose control?",
+    "image": "",
+    "chooses": ["HbA1c", "Blood glucose", "Electrolytes", "Liver function tests"],
+    "correctanswer": "HbA1c"
+  },
+  {
+    "quest": "Which electrolyte imbalance causes Chvostek’s sign?",
+    "image": "",
+    "chooses": ["Hypocalcemia", "Hyperkalemia", "Hyponatremia", "Hypermagnesemia"],
+    "correctanswer": "Hypocalcemia"
+  },
+  {
+    "quest": "What is the normal range for blood pressure in adults?",
+    "image": "",
+    "chooses": ["", "", "", ""],
+    "correctanswer": "120/80 mmHg"
+  },
+  {
+    "quest": "Which action is important when administering IV potassium?",
+    "image": "",
+    "chooses": ["Administer slowly", "Administer as a bolus", "Mix with dextrose", "Give IM injection"],
+    "correctanswer": "Administer slowly"
+  },
+  {
+    "quest": "What is the common cause of peptic ulcers?",
+    "image": "",
+    "chooses": ["Helicobacter pylori infection", "High cholesterol", "Low blood pressure", "Viral infection"],
+    "correctanswer": "Helicobacter pylori infection"
+  },
+  {
+    "quest": "What is the normal pH range of arterial blood?",
+    "image": "",
+    "chooses": ["", "", "", ""],
+    "correctanswer": "7.35–7.45"
+  },
+  {
+    "quest": "Which organ produces insulin?",
+    "image": "",
+    "chooses": ["Pancreas", "Liver", "Kidney", "Adrenal gland"],
+    "correctanswer": "Pancreas"
+  },
+  {
+    "quest": "What symptom is common in hypoglycemia?",
+    "image": "",
+    "chooses": ["Sweating", "Dry mouth", "Blurred vision", "Weight gain"],
+    "correctanswer": "Sweating"
+  },
+  {
+    "quest": "Which vitamin deficiency causes pernicious anemia?",
+    "image": "",
+    "chooses": ["Vitamin B12", "Vitamin C", "Vitamin D", "Vitamin A"],
+    "correctanswer": "Vitamin B12"
+  },
+  {
+    "quest": "What is the purpose of a nasogastric tube?",
+    "image": "",
+    "chooses": ["Remove gastric contents", "Deliver oxygen", "Measure blood pressure", "Administer insulin"],
+    "correctanswer": "Remove gastric contents"
+  },
+  {
+    "quest": "Which condition is characterized by chronic inflammation of the joints?",
+    "image": "",
+    "chooses": ["Rheumatoid arthritis", "Osteoporosis", "Fracture", "Sprain"],
+    "correctanswer": "Rheumatoid arthritis"
+  },
+  {
+    "quest": "What is the normal adult heart rate?",
+    "image": "",
+    "chooses": ["", "", "", ""],
+    "correctanswer": "60–100 beats per minute"
+  },
+  {
+    "quest": "Which medication is used to treat hypertension?",
+    "image": "",
+    "chooses": ["Lisinopril", "Ibuprofen", "Amoxicillin", "Metformin"],
+    "correctanswer": "Lisinopril"
+  },
+  {
+    "quest": "What is the primary symptom of hypothyroidism?",
+    "image": "",
+    "chooses": ["Fatigue", "Weight loss", "Heat intolerance", "Diarrhea"],
+    "correctanswer": "Fatigue"
+  },
+  {
+    "quest": "Which organ is affected in cirrhosis?",
+    "image": "",
+    "chooses": ["Liver", "Kidney", "Heart", "Lung"],
+    "correctanswer": "Liver"
+  },
+  {
+    "quest": "What is the normal oxygen saturation level?",
+    "image": "",
+    "chooses": ["", "", "", ""],
+    "correctanswer": "95–100%"
+  },
+  {
+    "quest": "Which electrolyte is important for muscle contraction?",
+    "image": "",
+    "chooses": ["Calcium", "Sodium", "Potassium", "Magnesium"],
+    "correctanswer": "Calcium"
+  },
+  {
+    "quest": "What is the first step in CPR?",
+    "image": "",
+    "chooses": ["Check responsiveness", "Start chest compressions", "Call for help", "Open airway"],
+    "correctanswer": "Check responsiveness"
+  },
+  {
+    "quest": "Which condition is a complication of diabetes mellitus?",
+    "image": "",
+    "chooses": ["Peripheral neuropathy", "Osteoarthritis", "Asthma", "Hypertension"],
+    "correctanswer": "Peripheral neuropathy"
+  },
+  {
+    "quest": "What is the most common symptom of anemia?",
+    "image": "",
+    "chooses": ["Fatigue", "Fever", "Weight gain", "Headache"],
+    "correctanswer": "Fatigue"
+  },
+  {
+    "quest": "Which vitamin is synthesized by the skin upon sunlight exposure?",
+    "image": "",
+    "chooses": ["Vitamin D", "Vitamin B12", "Vitamin C", "Vitamin A"],
+    "correctanswer": "Vitamin D"
+  },
+  {
+    "quest": "What is the appropriate site for intramuscular injection in adults?",
+    "image": "",
+    "chooses": ["Ventrogluteal", "Deltoid", "Dorsogluteal", "Vastus lateralis"],
+    "correctanswer": "Ventrogluteal"
+  },
+  {
+    "quest": "Which symptom indicates hypoxia?",
+    "image": "",
+    "chooses": ["Cyanosis", "Hypertension", "Tachycardia", "Fever"],
+    "correctanswer": "Cyanosis"
+  },
+  {
+    "quest": "What is the function of platelets?",
+    "image": "",
+    "chooses": ["Blood clotting", "Oxygen transport", "Immune response", "Hormone secretion"],
+    "correctanswer": "Blood clotting"
+  },
+  {
+    "quest": "Which disease is caused by Mycobacterium tuberculosis?",
+    "image": "",
+    "chooses": ["Tuberculosis", "Pneumonia", "Bronchitis", "Asthma"],
+    "correctanswer": "Tuberculosis"
+  },
+  {
+    "quest": "What is the term for difficulty swallowing?",
+    "image": "",
+    "chooses": ["Dysphagia", "Dyspnea", "Dysuria", "Dyspepsia"],
+    "correctanswer": "Dysphagia"
+  },
+  {
+    "quest": "Which diagnostic test is used to assess cardiac electrical activity?",
+    "image": "",
+    "chooses": ["Electrocardiogram (ECG)", "Chest X-ray", "MRI", "Ultrasound"],
+    "correctanswer": "Electrocardiogram (ECG)"
+  },
+  {
+    "quest": "What is the normal range for fasting blood glucose?",
+    "image": "",
+    "chooses": ["70–100 mg/dL", "90–120 mg/dL", "90–160 mg/dL", "100–190 mg/dL"],
+    "correctanswer": "70–100 mg/dL"
+  },
+  {
+    "quest": "Which body system is affected by multiple sclerosis?",
+    "image": "",
+    "chooses": ["Nervous system", "Respiratory system", "Digestive system", "Endocrine system"],
+    "correctanswer": "Nervous system"
+  },
+  {
+    "quest": "What is the primary symptom of appendicitis?",
+    "image": "",
+    "chooses": ["Right lower quadrant pain", "Chest pain", "Headache", "Shortness of breath"],
+    "correctanswer": "Right lower quadrant pain"
+  },
+  {
+    "quest": "Which of the following is a risk factor for deep vein thrombosis?",
+    "image": "",
+    "chooses": ["Prolonged immobility", "High vitamin C intake", "Hyperthyroidism", "Regular exercise"],
+    "correctanswer": "Prolonged immobility"
+  },
+  {
+    "quest": "What is the normal platelet count range?",
+    "image": "",
+    "chooses": ["190,000–890,000/mm³", "180,000–650,000/mm³", "160,000–550,000/mm³", "150,000–450,000/mm³"],
+    "correctanswer": "150,000–450,000/mm³"
+  },
+  {
+    "quest": "Which medication is used as an antidote for opioid overdose?",
+    "image": "",
+    "chooses": ["Naloxone", "Atropine", "Diazepam", "Epinephrine"],
+    "correctanswer": "Naloxone"
+  },
+  {
+    "quest": "What is the main function of the liver?",
+    "image": "",
+    "chooses": ["Metabolism and detoxification", "Oxygen transport", "Blood clotting", "Immune response"],
+    "correctanswer": "Metabolism and detoxification"
+  },
+  {
+    "quest": "Which condition is characterized by hyperglycemia?",
+    "image": "",
+    "chooses": ["Diabetes mellitus", "Hypoglycemia", "Hypertension", "Anemia"],
+    "correctanswer": "Diabetes mellitus"
+  },
+  {
+    "quest": "What is the typical symptom of gastroesophageal reflux disease (GERD)?",
+    "image": "",
+    "chooses": ["Heartburn", "Constipation", "Diarrhea", "Headache"],
+    "correctanswer": "Heartburn"
+  },
+  {
+    "quest": "Which nerve controls the sense of smell?",
+    "image": "",
+    "chooses": ["Olfactory nerve (I)", "Optic nerve (II)", "Facial nerve (VII)", "Vagus nerve (X)"],
+    "correctanswer": "Olfactory nerve (I)"
+  },
+  {
+    "quest": "What is the normal hematocrit range for adult males?",
+    "image": "",
+    "chooses": ["49%–55%", "41%–51%", "42%–52%", "44%–57%"],
+    "correctanswer": "42%–52%"
+  },
+  {
+    "quest": "Which mineral is essential for thyroid hormone production?",
+    "image": "",
+    "chooses": ["Iodine", "Calcium", "Iron", "Magnesium"],
+    "correctanswer": "Iodine"
+  },
+  {
+    "quest": "What does the term 'tachypnea' mean?",
+    "image": "",
+    "chooses": ["Rapid breathing", "Slow breathing", "No breathing", "Irregular breathing"],
+    "correctanswer": "Rapid breathing"
+  },
+  {
+    "quest": "Which condition requires droplet precautions?",
+    "image": "",
+    "chooses": ["Influenza", "Tuberculosis", "MRSA", "C. difficile"],
+    "correctanswer": "Influenza"
+  },
+  {
+    "quest": "What is the purpose of defibrillation?",
+    "image": "",
+    "chooses": ["Restore normal heart rhythm", "Lower blood pressure", "Increase oxygen saturation", "Reduce fever"],
+    "correctanswer": "Restore normal heart rhythm"
+  },
+  {
+    "quest": "What is the medical term for low blood sodium?",
+    "image": "",
+    "chooses": ["Hyponatremia", "Hyperkalemia", "Hypoglycemia", "Hypernatremia"],
+    "correctanswer": "Hyponatremia"
+  },
+  {
+    "quest": "Which organ is primarily responsible for filtering blood?",
+    "image": "",
+    "chooses": ["Kidney", "Liver", "Lung", "Heart"],
+    "correctanswer": "Kidney"
+  },
+  {
+    "quest": "What is the main cause of pressure ulcers?",
+    "image": "",
+    "chooses": ["Prolonged pressure", "Infection", "Allergy", "Trauma"],
+    "correctanswer": "Prolonged pressure"
+  },
+  {
+    "quest": "Which electrolyte imbalance causes muscle weakness and cardiac arrhythmias?",
+    "image": "",
+    "chooses": ["Hypokalemia", "Hypercalcemia", "Hyponatremia", "Hypermagnesemia"],
+    "correctanswer": "Hypokalemia"
+  },
+  {
+    "quest": "What does the Glasgow Coma Scale assess?",
+    "image": "",
+    "chooses": ["Level of consciousness", "Blood glucose", "Heart rate", "Respiratory rate"],
+    "correctanswer": "Level of consciousness"
+  },
+  {
+    "quest": "Which disease is characterized by demyelination of neurons?",
+    "image": "",
+    "chooses": ["Multiple sclerosis", "Parkinson’s disease", "Alzheimer’s disease", "Myasthenia gravis"],
+    "correctanswer": "Multiple sclerosis"
+  },
+  {
+    "quest": "What is the recommended position for a patient experiencing shock?",
+    "image": "",
+    "chooses": ["Supine with legs elevated", "Sitting upright", "Prone", "Trendelenburg"],
+    "correctanswer": "Supine with legs elevated"
+  },
+  {
+    "quest": "Which vitamin is necessary for blood clotting?",
+    "image": "",
+    "chooses": ["Vitamin K", "Vitamin E", "Vitamin C", "Vitamin B12"],
+    "correctanswer": "Vitamin K"
+  },
+  {
+    "quest": "What is the term for excessive thirst?",
+    "image": "",
+    "chooses": ["Polydipsia", "Polyuria", "Dysphagia", "Dyspnea"],
+    "correctanswer": "Polydipsia"
+  },
+  {
+    "quest": "Which organ produces bile?",
+    "image": "",
+    "chooses": ["Liver", "Pancreas", "Gallbladder", "Stomach"],
+    "correctanswer": "Liver"
+  },
+  {
+    "quest": "What is the medical term for difficulty breathing?",
+    "image": "",
+    "chooses": ["Dyspnea", "Apnea", "Bradypnea", "Tachypnea"],
+    "correctanswer": "Dyspnea"
+  },
+  {
+    "quest": "Which electrolyte imbalance can cause cardiac arrest?",
+    "image": "",
+    "chooses": ["Hyperkalemia", "Hyponatremia", "Hypocalcemia", "Hypermagnesemia"],
+    "correctanswer": "Hyperkalemia"
+  },
+  {
+    "quest": "What is the normal adult respiratory rate?",
+    "image": "",
+    "chooses": ["12–20 breaths per minute", "8–12 breaths per minute", "20–30 breaths per minute", "30–40 breaths per minute"],
+    "correctanswer": "12–20 breaths per minute"
+  },
+  {
+    "quest": "Which disease is characterized by the loss of bone density?",
+    "image": "",
+    "chooses": ["Osteoporosis", "Osteoarthritis", "Rheumatoid arthritis", "Gout"],
+    "correctanswer": "Osteoporosis"
+  },
+  {
+    "quest": "What is the typical sign of a myocardial infarction?",
+    "image": "",
+    "chooses": ["Chest pain", "Headache", "Fever", "Abdominal pain"],
+    "correctanswer": "Chest pain"
+  },
+  {
+    "quest": "Which term describes an abnormally low body temperature?",
+    "image": "",
+    "chooses": ["Hypothermia", "Hyperthermia", "Febrile", "Normothermia"],
+    "correctanswer": "Hypothermia"
+  },
+  {
+    "quest": "Which vaccine is recommended annually for adults?",
+    "image": "",
+    "chooses": ["Influenza vaccine", "Hepatitis B vaccine", "MMR vaccine", "Varicella vaccine"],
+    "correctanswer": "Influenza vaccine"
+  },
+  {
+    "quest": "What is the main purpose of antibiotics?",
+    "image": "",
+    "chooses": ["Kill or inhibit bacteria", "Reduce inflammation", "Lower blood pressure", "Control blood sugar"],
+    "correctanswer": "Kill or inhibit bacteria"
+  },
+  {
+    "quest": "Which condition is characterized by excessive thyroid hormone production?",
+    "image": "",
+    "chooses": ["Hyperthyroidism", "Hypothyroidism", "Diabetes mellitus", "Cushing’s syndrome"],
+    "correctanswer": "Hyperthyroidism"
+  },
+  {
+    "quest": "What is the medical term for difficulty urinating?",
+    "image": "",
+    "chooses": ["Dysuria", "Polyuria", "Anuria", "Oliguria"],
+    "correctanswer": "Dysuria"
+  },
+  {
+    "quest": "Which cranial nerve controls facial expressions?",
+    "image": "",
+    "chooses": ["Facial nerve (VII)", "Trigeminal nerve (V)", "Vagus nerve (X)", "Accessory nerve (XI)"],
+    "correctanswer": "Facial nerve (VII)"
+  },
+  {
+    "quest": "What is the purpose of a chest tube?",
+    "image": "",
+    "chooses": ["Remove air or fluid from pleural space", "Deliver medication", "Measure blood pressure", "Assist with swallowing"],
+    "correctanswer": "Remove air or fluid from pleural space"
+  },
+  {
+    "quest": "What is the medical term for low white blood cell count?",
+    "image": "",
+    "chooses": ["Leukopenia", "Leukocytosis", "Anemia", "Thrombocytopenia"],
+    "correctanswer": "Leukopenia"
+  },
+  {
+    "quest": "Which condition is characterized by chronic high blood pressure?",
+    "image": "",
+    "chooses": ["Hypertension", "Hypotension", "Hypoglycemia", "Hyperglycemia"],
+    "correctanswer": "Hypertension"
+  },
+  {
+    "quest": "What is the primary function of hemoglobin?",
+    "image": "",
+    "chooses": ["Transport oxygen", "Fight infection", "Clot blood", "Produce energy"],
+    "correctanswer": "Transport oxygen"
+  },
+  {
+    "quest": "Which test measures kidney function?",
+    "image": "",
+    "chooses": ["Blood urea nitrogen (BUN)", "Electrocardiogram (ECG)", "Chest X-ray", "Liver function test"],
+    "correctanswer": "Blood urea nitrogen (BUN)"
+  },
+  {
+    "quest": "What is the medical term for excessive urination?",
+    "image": "",
+    "chooses": ["Polyuria", "Dysuria", "Oliguria", "Anuria"],
+    "correctanswer": "Polyuria"
+  },
+  {
+    "quest": "Which condition is a complication of untreated hypertension?",
+    "image": "",
+    "chooses": ["Stroke", "Asthma", "Diabetes", "Pneumonia"],
+    "correctanswer": "Stroke"
+  },
+  {
+    "quest": "What does the term 'bradycardia' mean?",
+    "image": "",
+    "chooses": ["Slow heart rate", "Fast heart rate", "Irregular heart rate", "Absent heart rate"],
+    "correctanswer": "Slow heart rate"
+  },
+  {
+    "quest": "Which organ produces erythropoietin?",
+    "image": "",
+    "chooses": ["Kidneys", "Liver", "Spleen", "Bone marrow"],
+    "correctanswer": "Kidneys"
+  },
+  {
+    "quest": "What is the term for inflammation of the liver?",
+    "image": "",
+    "chooses": ["Hepatitis", "Nephritis", "Gastritis", "Dermatitis"],
+    "correctanswer": "Hepatitis"
+  },
+  {
+    "quest": "Which condition is characterized by decreased bone marrow production?",
+    "image": "",
+    "chooses": ["Aplastic anemia", "Sickle cell anemia", "Iron deficiency anemia", "Pernicious anemia"],
+    "correctanswer": "Aplastic anemia"
+  },
+  {
+    "quest": "What is the medical term for the removal of a body part?",
+    "image": "",
+    "chooses": ["Amputation", "Biopsy", "Excision", "Incision"],
+    "correctanswer": "Amputation"
+  },
+  {
+    "quest": "Which vitamin deficiency causes scurvy?",
+    "image": "",
+    "chooses": ["Vitamin C", "Vitamin D", "Vitamin A", "Vitamin B12"],
+    "correctanswer": "Vitamin C"
+  },
+  {
+    "quest": "What is the term for low blood oxygen levels?",
+    "image": "",
+    "chooses": ["Hypoxemia", "Hypercapnia", "Hypoglycemia", "Hyperkalemia"],
+    "correctanswer": "Hypoxemia"
+  },
+  {
+    "quest": "What is the medical term for inflammation of the stomach lining?",
+    "image": "",
+    "chooses": ["Gastritis", "Hepatitis", "Nephritis", "Dermatitis"],
+    "correctanswer": "Gastritis"
+  },
+  {
+    "quest": "Name the condition characterized by a sudden blockage of a coronary artery.",
+    "image": "",
+    "chooses": [],
+    "correctanswer": "Myocardial infarction"
+  },
+    {
+    "quest": "Identify the correct site for intramuscular injection in adults.",
+    "image": "",
+    "chooses": ["Deltoid", "Vastus lateralis", "Gluteus maximus", "All of the above"],
+    "correctanswer": "All of the above"
+  },
+  {
+    "quest": "What is the medical term for inflammation of the kidneys?",
+    "image": "",
+    "chooses": ["Nephritis", "Hepatitis", "Gastritis", "Dermatitis"],
+    "correctanswer": "Nephritis"
+  },
+  {
+    "quest": "Which cranial nerve controls eye movement?",
+    "image": "",
+    "chooses": ["Oculomotor (III)", "Facial (VII)", "Trigeminal (V)", "Vagus (X)"],
+    "correctanswer": "Oculomotor (III)"
+  },
+  {
+    "quest": "What is the common symptom of anemia?",
+    "image": "",
+    "chooses": [],
+    "correctanswer": "Fatigue"
+  },
+  {
+    "quest": "What does the term 'hypertension' mean?",
+    "image": "",
+    "chooses": ["High blood pressure", "Low blood pressure", "High blood sugar", "Low blood sugar"],
+    "correctanswer": "High blood pressure"
+  },
+  {
+    "quest": "Which test is used to monitor long-term blood glucose control?",
+    "image": "",
+    "chooses": ["HbA1c", "Fasting blood sugar", "Random blood sugar", "Oral glucose tolerance test"],
+    "correctanswer": "HbA1c"
+  },
+    {
+    "quest": "What is the primary purpose of administering diuretics?",
+    "image": "",
+    "chooses": ["Reduce inflammation", "Increase urine output", "Lower blood sugar", "Relieve pain"],
+    "correctanswer": "Increase urine output"
+  },
+  {
+    "quest": "Name the vitamin essential for calcium absorption in the body.",
+    "image": "",
+    "chooses": [],
+    "correctanswer": "Vitamin D"
+  },
+  {
+    "quest": "Which condition is characterized by inflammation of the joints?",
+    "image": "",
+    "chooses": ["Osteoarthritis", "Dermatitis", "Hepatitis", "Nephritis"],
+    "correctanswer": "Osteoarthritis"
+  },
+  {
+    "quest": "What is the medical term for difficulty swallowing?",
+    "image": "",
+    "chooses": ["Dysphagia", "Dysuria", "Dyspnea", "Dysarthria"],
+    "correctanswer": "Dysphagia"
+  },
+  {
+    "quest": "Identify the correct position for a patient experiencing respiratory distress.",
+    "image": "",
+    "chooses": ["Supine", "Prone", "High Fowler’s", "Trendelenburg"],
+    "correctanswer": "High Fowler’s"
+  },
+  {
+    "quest": "What is the function of insulin in the body?",
+    "image": "",
+    "chooses": [],
+    "correctanswer": "Regulate blood glucose levels"
+  },
+  {
+    "quest": "Which electrolyte imbalance can cause cardiac arrhythmias?",
+    "image": "",
+    "chooses": ["Hyperkalemia", "Hyponatremia", "Hypercalcemia", "Hypomagnesemia"],
+    "correctanswer": "Hyperkalemia"
+  },
+  {
+    "quest": "What is the medical term for low platelet count?",
+    "image": "",
+    "chooses": ["Thrombocytopenia", "Leukopenia", "Anemia", "Polycythemia"],
+    "correctanswer": "Thrombocytopenia"
+  },
+  {
+    "quest": "Which organ is primarily responsible for detoxifying chemicals and metabolizing drugs?",
+    "image": "",
+    "chooses": ["Liver", "Kidneys", "Spleen", "Pancreas"],
+    "correctanswer": "Liver"
+  },
+  {
+    "quest": "What is the first step in cardiopulmonary resuscitation (CPR)?",
+    "image": "",
+    "chooses": ["Call for help", "Open airway", "Check pulse", "Start chest compressions"],
+    "correctanswer": "Call for help"
+  },
+  {
+    "quest": "Name the hormone responsible for the fight-or-flight response.",
+    "image": "",
+    "chooses": [],
+    "correctanswer": "Adrenaline"
+  },
+  {
+    "quest": "What does the term 'tachypnea' refer to?",
+    "image": "",
+    "chooses": ["Rapid breathing", "Slow breathing", "No breathing", "Irregular breathing"],
+    "correctanswer": "Rapid breathing"
+  },
+  {
+    "quest": "Which disease is caused by deficiency of insulin?",
+    "image": "",
+    "chooses": ["Diabetes mellitus", "Hypertension", "Hypothyroidism", "Anemia"],
+    "correctanswer": "Diabetes mellitus"
+  }      
+   
         
       ]
 
